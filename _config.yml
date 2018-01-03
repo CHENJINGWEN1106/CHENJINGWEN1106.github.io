@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "胡靖茵个人学习博客"
+title: "陈静雯RADWIMPS个人学习博客"
 description: "个人学习博客"
 logo: zhu-160x160 px.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -26,13 +26,13 @@ gems:
 
 # Site owner
 owner:
-  name: 胡靖茵
-  email: 846853193@qq.com
+  name: 陈静雯
+  email: 745829856@qq.com
   twitter: 
   google:
     ad-client:
     ad-slot:
-  bio: "胡靖茵 中山大学南方学院网络与新媒体专业学生"
+  bio: "陈静雯 中山大学南方学院网络与新媒体专业学生"
   avatar: bio.jpg # 160x160 px image for author byline
   disqus-shortname:
 
@@ -65,11 +65,11 @@ exclude:
 
 # Site Author
 author:
-  name             : "胡靖茵"
+  name             : "陈静雯"
   avatar           : "/image/bio.jpg"
   bio              : "中山大学南方学院网络与新媒体专业学生"
-  location         : "广东-佛山"
-  email            : "846853193@qq.com"
+  location         : "广东-广州"
+  email            : "745829856@qq.com"
   uri              : "中山大学南方学院"
   bitbucket        :
   codepen          :
@@ -91,6 +91,6 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            : "胡靖茵茵茵"
+  weibo            : "Tauruskris"
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
