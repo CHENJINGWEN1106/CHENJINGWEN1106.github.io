@@ -4,7 +4,7 @@ title:  "关于作者"
 date:   2018-01-01 13:15:50 +0800
 categories:
 image:
-  teaser: author.jpg
+  teaser: selfie.jpg
 ---
 # ABOUT AUTHOR
 - 我是一名来自中山大学南方学院网络与新媒体专业的学生。
