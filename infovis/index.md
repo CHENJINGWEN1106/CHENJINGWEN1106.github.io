@@ -6,7 +6,7 @@ modified:
 excerpt: "666"
 tags: []
 image: 
-  feature: logo.jpg
+  feature: visualization.jpg
   teaser:
 ---
 
