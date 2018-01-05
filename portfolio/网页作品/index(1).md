@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<title>ATYPICAL</title>
+
+		<meta name="viewport" content="width=device-width">
+
+		<link rel="stylesheet" href="css/styles.css">
+
+	</head>
+
+	<body>
+
+		<div class="Header">
+
+		<p class="Strap">吴亦凡的角色合集</p>	
+
+		   
+
+		</div>
+
+		<div class="IntroWrapper">
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU1.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU2.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU3.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU4.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU5.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU6.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU7.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			<a href="/" class="LogoWrapper"><img src="KRISWU8.jpg" alt="UNSDG_Logo_2015_CH" /></a>
+
+			
+
+		</div>
+
+		<div class="Ingredients">
+
+		
+
+		</div>
+
+	</body>
+
+</html>
