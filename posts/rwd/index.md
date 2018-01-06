@@ -6,8 +6,8 @@ modified:
 excerpt: "小小总结"
 tags: []
 image: 
-  feature: webnotes.jpg
-  teaser:
+  feature: note.png
+  teaser:
 ---
 
 
