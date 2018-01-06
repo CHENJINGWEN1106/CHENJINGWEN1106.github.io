@@ -6,7 +6,7 @@ modified:
 excerpt: "cappzang~"
 tags: []
 image: 
-  feature: KRISWU1.jpg
+  feature: web.jpg
   teaser:
 ---
 
