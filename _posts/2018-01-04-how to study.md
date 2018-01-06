@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "答疑解惑"
-categories: posts 
+categories: posts rwd 
 image:
   teaser: aini.jpg
 ---
