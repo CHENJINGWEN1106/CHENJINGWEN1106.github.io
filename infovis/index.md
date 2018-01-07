@@ -7,7 +7,7 @@ excerpt: "biubiubiu"
 tags: []
 image: 
   feature: ggg.png
-  teaser:
+  teaser: ggg.png
 ---
 
 
