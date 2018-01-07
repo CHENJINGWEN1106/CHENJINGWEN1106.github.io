@@ -6,7 +6,7 @@ modified:
 excerpt: "SO COOL"
 tags: []
 image: 
-  feature: visualization1.jpg
+  feature: visualization2.jpg
   teaser:
 ---
 
