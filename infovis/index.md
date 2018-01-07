@@ -6,8 +6,8 @@ modified:
 excerpt: "SO COOL"
 tags: []
 image: 
-  feature: visualization3.jpg
-  teaser:
+  feature: visualization3.png
+  teaser:
 ---
 
 
